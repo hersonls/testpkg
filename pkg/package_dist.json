@@ -1,0 +1,28 @@
+{
+  "name": "testest",
+  "version": "1.0.0",
+  "description": "Angular package description",
+  "main": "bundles/testest.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "angular4"
+  ],
+  "author": "Hersonls",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/project/repository"
+  },
+  "homepage": "https://github.com/project/repository",
+  "bugs": {
+    "url": "https://github.com/project/repository"
+  },
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.0.0"
+  }
+}
